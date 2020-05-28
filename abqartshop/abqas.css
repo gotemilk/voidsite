@@ -80,10 +80,11 @@ div.socialmedia {
 /*blurb*/
 .blurb {
   color: black;
-  text-align: right;
+  text-align: left;
   position: absolute;
-  top: 0%;
-  right: 5%;
+  width: 100px;
+  top: 2%;
+  left: 2%;
 }
 
 /*these are for the menu on the intro image*/

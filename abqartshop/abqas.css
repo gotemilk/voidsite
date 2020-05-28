@@ -2,7 +2,7 @@
 
 html {
   margin: 0 auto;
-  max-width: 700px;
+  max-width: 1920px;
 }
 
 body {
@@ -91,9 +91,9 @@ div.socialmedia {
 #rcorners1 {
   border-radius: 4px 4px;
   color: black;
-  background: #fa4251;
+  background: #468686;
   padding: 5px 10px 0px 0px;
-  line-height: 70px;
+  line-height: 50px;
   margin: 5px;
 }
 
@@ -103,7 +103,7 @@ div.socialmedia {
 
   color: #fa4251;
   padding: 5px 10px 0px 0px;
-  line-height: 70px;
+  line-height: 50px;
   margin: 5px;
 }
 
@@ -112,14 +112,14 @@ div.socialmedia {
   background: black;
   color: #ffd31c;
   padding: 5px 10px 0px 0px;
-  line-height: 70px;
+  line-height: 50px;
   margin: 5px;
 }
 
 p.solid {
-  float: left;
-  font-family: helvetica-bold, arial black;
-  font-size: 85px;
+  float: right;
+  font-family: arial narrow, arial black, helvetica-bold;
+  font-size: 55px;
 }
 p.solid:hover {
   text-decoration: underline;

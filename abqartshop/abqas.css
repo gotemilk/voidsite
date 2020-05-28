@@ -79,12 +79,11 @@ div.socialmedia {
 
 /*blurb*/
 .blurb {
-  color: black;
   text-align: left;
   position: absolute;
-  width: 100px;
-  top: 2%;
-  left: 2%;
+  width: 120px;
+  top: 3%;
+  left: 3%;
 }
 
 /*these are for the menu on the intro image*/

@@ -90,36 +90,35 @@ div.socialmedia {
 
 #rcorners1 {
   border-radius: 4px 4px;
-  color: black;
+  color: WHITE;
   background: #468686;
-  padding: 5px 10px 0px 0px;
-  line-height: 50px;
-  margin: 5px;
+  line-height: 80px;
+  margin: 0px;
 }
 
 #rcorners2 {
   border-radius: 4px 4px;
-  background: #ffd31c;
+  background: #edc11a;
 
-  color: #fa4251;
-  padding: 5px 10px 0px 0px;
-  line-height: 50px;
-  margin: 5px;
+  color: black;
+  line-height: 80px;
+  margin: 0px;
 }
 
 #rcorners3 {
   border-radius: 4px 4px;
   background: black;
-  color: #ffd31c;
-  padding: 5px 10px 0px 0px;
-  line-height: 50px;
-  margin: 5px;
+  color: #edc11a;
+  line-height: 80px;
+  margin: 0px;
 }
 
 p.solid {
-  float: right;
+  float: center;
   font-family: arial narrow, arial black, helvetica-bold;
-  font-size: 55px;
+  font-size: 100px;
+  letter-spacing: -4px;
+  margin: -10px;
 }
 p.solid:hover {
   text-decoration: underline;
@@ -286,8 +285,8 @@ div.bottom-left {
 }
 div.bottom-right {
   position: absolute;
-  bottom: 6%;
-  right: 4%;
+  bottom: 2%;
+  right: 2%;
 }
 div.top-right {
   text-align: right;
